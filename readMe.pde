@@ -1,5 +1,5 @@
 /*
-Install Processing @ https://processing.org/download/, open the file and play it 
+Install Processing @ https://processing.org/download/, open the file and play gardening file
 
 My animation starts with a input dialogue boxes which ask the user to enter their name and then asks the user if they like gardening. 
 It responds with messages derived from the user inputs.
