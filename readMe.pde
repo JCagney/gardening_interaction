@@ -1,8 +1,5 @@
 /*
-Name : John Cagney
-Student Number: 20091384
-
-Brief description of the animation achieved: 
+Install Processing @ https://processing.org/download/, open the file and play it 
 
 My animation starts with a input dialogue boxes which ask the user to enter their name and then asks the user if they like gardening. 
 It responds with messages derived from the user inputs.
